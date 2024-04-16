@@ -1,4 +1,5 @@
 // done
+// https://codeforces.com/problemset/problem/996/A
 #include <iostream>
 #include <vector>
 #define ll long long int
